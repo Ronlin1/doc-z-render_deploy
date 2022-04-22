@@ -1,0 +1,23 @@
+{
+  "name": "DocZ",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mdx",
+  "scripts": {
+    "docz:dev": "docz dev",
+    "docz:build": "docz build",
+    "docz:serve": "docz build && docz serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/core": "^10.1.1",
+    "@emotion/react": "^11.9.0",
+    "docz": "^2.4.0",
+    "gatsby-cli": "^4.12.1",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "typescript": "^4.6.3"
+  }
+}
