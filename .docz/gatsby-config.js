@@ -47,7 +47,7 @@ const config = {
         open: null,
         'open-browser': null,
         root:
-          'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\.docz',
+          'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\doc-z-render_deploy\\.docz',
         base: '/',
         source: './',
         'gatsby-root': null,
@@ -67,37 +67,37 @@ const config = {
         separator: '-',
         paths: {
           root:
-            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1',
+            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\doc-z-render_deploy',
           templates:
-            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\node_modules\\docz-core\\dist\\templates',
+            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\doc-z-render_deploy\\node_modules\\docz-core\\dist\\templates',
           docz:
-            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\.docz',
+            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\doc-z-render_deploy\\.docz',
           cache:
-            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\.docz\\.cache',
+            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\doc-z-render_deploy\\.docz\\.cache',
           app:
-            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\.docz\\app',
+            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\doc-z-render_deploy\\.docz\\app',
           appPackageJson:
-            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\package.json',
+            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\doc-z-render_deploy\\package.json',
           appTsConfig:
-            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\tsconfig.json',
+            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\doc-z-render_deploy\\tsconfig.json',
           gatsbyConfig:
-            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\gatsby-config.js',
+            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\doc-z-render_deploy\\gatsby-config.js',
           gatsbyBrowser:
-            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\gatsby-browser.js',
+            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\doc-z-render_deploy\\gatsby-browser.js',
           gatsbyNode:
-            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\gatsby-node.js',
+            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\doc-z-render_deploy\\gatsby-node.js',
           gatsbySSR:
-            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\gatsby-ssr.js',
+            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\doc-z-render_deploy\\gatsby-ssr.js',
           importsJs:
-            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\.docz\\app\\imports.js',
+            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\doc-z-render_deploy\\.docz\\app\\imports.js',
           rootJs:
-            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\.docz\\app\\root.jsx',
+            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\doc-z-render_deploy\\.docz\\app\\root.jsx',
           indexJs:
-            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\.docz\\app\\index.jsx',
+            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\doc-z-render_deploy\\.docz\\app\\index.jsx',
           indexHtml:
-            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\.docz\\app\\index.html',
+            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\doc-z-render_deploy\\.docz\\app\\index.html',
           db:
-            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\.docz\\app\\db.json',
+            'C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\doc-z-render_deploy\\.docz\\app\\db.json',
         },
       },
     },

@@ -1,8 +1,8 @@
 var plugins = [{
-      plugin: require('C:/Users/Ronnie Atuhaire/OneDrive/Desktop/Projects/DocZ/V1/node_modules/gatsby-plugin-mdx/gatsby-ssr'),
-      options: {"plugins":[],"extensions":[".md",".mdx"],"remarkPlugins":[[null,{"type":"yaml","marker":"-"}],null],"rehypePlugins":[null,null],"gatsbyRemarkPlugins":[],"defaultLayouts":{"default":"C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\node_modules\\gatsby-theme-docz\\src\\base\\Layout.js"},"lessBabel":false,"mediaTypes":["text/markdown","text/x-markdown"],"root":"C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\.docz"},
+      plugin: require('C:/Users/Ronnie Atuhaire/OneDrive/Desktop/Projects/DocZ/V1/doc-z-render_deploy/node_modules/gatsby-plugin-mdx/gatsby-ssr'),
+      options: {"plugins":[],"extensions":[".md",".mdx"],"remarkPlugins":[[null,{"type":"yaml","marker":"-"}],null],"rehypePlugins":[null,null],"gatsbyRemarkPlugins":[],"defaultLayouts":{"default":"C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\doc-z-render_deploy\\node_modules\\gatsby-theme-docz\\src\\base\\Layout.js"},"lessBabel":false,"mediaTypes":["text/markdown","text/x-markdown"],"root":"C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\doc-z-render_deploy\\.docz"},
     },{
-      plugin: require('C:/Users/Ronnie Atuhaire/OneDrive/Desktop/Projects/DocZ/V1/node_modules/gatsby-plugin-react-helmet-async/gatsby-ssr'),
+      plugin: require('C:/Users/Ronnie Atuhaire/OneDrive/Desktop/Projects/DocZ/V1/doc-z-render_deploy/node_modules/gatsby-plugin-react-helmet-async/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:

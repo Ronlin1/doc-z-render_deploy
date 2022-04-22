@@ -17,7 +17,7 @@
         "route": "/",
         "id": "91149a4106ab27ef746308b41227aca8",
         "filepath": "index.mdx",
-        "fullpath": "C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\index.mdx",
+        "fullpath": "C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\doc-z-render_deploy\\index.mdx",
         "link": "",
         "hidden": false,
         "slug": "index",
@@ -27,6 +27,27 @@
             "slug": "hello-world",
             "depth": 1,
             "value": "Hello world"
+          }
+        ]
+      }
+    },
+    {
+      "key": "README.md",
+      "value": {
+        "id": "04c6e90faac2675aa89e2176d2eec7d8",
+        "filepath": "README.md",
+        "fullpath": "C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\doc-z-render_deploy\\README.md",
+        "link": "",
+        "hidden": false,
+        "slug": "readme",
+        "route": "/readme",
+        "name": "Readme",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "doc-z-render_deploy",
+            "depth": 1,
+            "value": "doc-z-render_deploy"
           }
         ]
       }
