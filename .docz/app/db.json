@@ -11,6 +11,21 @@
   },
   "entries": [
     {
+      "key": "article.md",
+      "value": {
+        "id": "75b25cab05d51895b47669b1edc0b764",
+        "filepath": "article.md",
+        "fullpath": "C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\doc-z-render_deploy\\article.md",
+        "link": "",
+        "hidden": false,
+        "slug": "article",
+        "route": "/article",
+        "name": "Article",
+        "menu": "",
+        "headings": []
+      }
+    },
+    {
       "key": "index.mdx",
       "value": {
         "name": "Hello world",
@@ -46,7 +61,7 @@
         "headings": [
           {
             "slug": "doc-z-render_deploy",
-            "depth": 1,
+            "depth": 3,
             "value": "doc-z-render_deploy"
           }
         ]

@@ -1,0 +1,63 @@
+In this tutorial, we will auto build our Docz site, auto-render and allow automatic deploys every time we push changes to the connected Github repository.
+
+If you are new to [Docz](https://www.docz.site/), it is simply a documenting tool that simplifies time spent on building and maintaining custom documentation sites.
+
+Docz enables you to quickly create live-reloading, SEO-friendly, production-ready documentation sites with MDX and customize the look, feel and behavior when required by leveraging GatsbyJS and Gatsby theme shadowing.
+
+You can get started [here](https://www.docz.site/docs/getting-started) and for more information.
+
+I have already created a sample site which is basically a ``` Hello-World``` programme on this repo and we shall see how we can deploy it automatically using [Render](https://render.com/) which is currently live [here](https://doc-z.onrender.com).
+
+[Render](https://render.com/) is a unified cloud to build and run all your apps and websites. Render is the best way to deploy websites. It's free, way faster than Github Pages, and can be set up without any big hassle.
+
+Render makes deploying your application as easy as pushing your code to source control. Once you connect your GitHub or GitLab account to your Render account, Render will automatically build and deploy your services with every push.
+
+Let's get started;
+
+As I said, we shall deploy this sample [Hello World Docz site](https://github.com/Ronlin1/doc-z-render_deploy), you can clone and npm install the required packages to follow along.
+
+You can test it locally by running;
+
+```
+yarn docz:dev
+``` 
+It may take some time building, but this should be the output;
+
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650695719173/DvtR4d5td.png)
+
+Now that we have tested, let's first head over to [Render](https://render.com/)and create an account, I would highly recommend signing up with GitHub and confirming your email.
+
+Once the email is confirmed, you might be redirected to your dashboard or go straight to the dashboard to create a new static website.
+
+🚀 Create a new static website 
+![1.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1650695541399/Lk8TXEcgm.PNG)
+
+🚀 Connect to your repo slug
+![22.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1650695563201/x7e6I41gV.PNG)
+You have to basically copy the repo-url that contains your site.
+
+🚀 Set up the project
+![2.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1650695552618/ZCU95hXQy.PNG)
+From the above picture, you can create your unique name for your project, set the branch name and my code is currently on main.
+
+Then direct Render on how to get the auto-build and specify the ```yarn docz build``` command which builds a static site in the ```.docz/dist/``` folder which I specified down.
+
+Go ahead to deploy right now by pressing on ```Create Static Site``` button.
+
+🚀  In-progress installations
+![3.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1650695573358/4Q4XBoFlr.PNG)
+You can skip the advanced settings for now and you are good to deploy. And if everything is right, Render will install all the necessary packages and run the build from the command we specified.
+
+🚀  Deploy
+![4.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1650695585427/a62L9YpPa.PNG)
+If all is well, you should get the above output.
+
+You can visit my own [deployment here](https://doc-z.onrender.com). 
+
+That's it! So every time you have new commits, you can choose to manually deploy to get the latest changes affected.
+
+Congratulations 🌟✨ you deployed a docz site in just under 10 minutes.
+
+
+
