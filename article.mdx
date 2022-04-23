@@ -1,3 +1,8 @@
+---
+name: Article
+route: /article
+---
+
 In this tutorial, we will auto build our Docz site, auto-render and allow automatic deploys every time we push changes to the connected Github repository.
 
 If you are new to [Docz](https://www.docz.site/), it is simply a documenting tool that simplifies time spent on building and maintaining custom documentation sites.
@@ -31,14 +36,19 @@ Now that we have tested, let's first head over to [Render](https://render.com/)a
 Once the email is confirmed, you might be redirected to your dashboard or go straight to the dashboard to create a new static website.
 
 🚀 Create a new static website 
+
 ![1.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1650695541399/Lk8TXEcgm.PNG)
 
 🚀 Connect to your repo slug
+
 ![22.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1650695563201/x7e6I41gV.PNG)
+
 You have to basically copy the repo-url that contains your site.
 
 🚀 Set up the project
+
 ![2.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1650695552618/ZCU95hXQy.PNG)
+
 From the above picture, you can create your unique name for your project, set the branch name and my code is currently on main.
 
 Then direct Render on how to get the auto-build and specify the ```yarn docz build``` command which builds a static site in the ```.docz/dist/``` folder which I specified down.
@@ -46,11 +56,15 @@ Then direct Render on how to get the auto-build and specify the ```yarn docz bui
 Go ahead to deploy right now by pressing on ```Create Static Site``` button.
 
 🚀  In-progress installations
+
 ![3.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1650695573358/4Q4XBoFlr.PNG)
+
 You can skip the advanced settings for now and you are good to deploy. And if everything is right, Render will install all the necessary packages and run the build from the command we specified.
 
-🚀  Deploy
+🚀  Deploy 
+
 ![4.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1650695585427/a62L9YpPa.PNG)
+
 If all is well, you should get the above output.
 
 You can visit my own [deployment here](https://doc-z.onrender.com). 

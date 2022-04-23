@@ -11,16 +11,16 @@
   },
   "entries": [
     {
-      "key": "article.md",
+      "key": "article.mdx",
       "value": {
-        "id": "75b25cab05d51895b47669b1edc0b764",
-        "filepath": "article.md",
-        "fullpath": "C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\doc-z-render_deploy\\article.md",
+        "name": "Article",
+        "route": "/article",
+        "id": "0c6d1202aee34b4b48f1df3cc833d653",
+        "filepath": "article.mdx",
+        "fullpath": "C:\\Users\\Ronnie Atuhaire\\OneDrive\\Desktop\\Projects\\DocZ\\V1\\doc-z-render_deploy\\article.mdx",
         "link": "",
         "hidden": false,
         "slug": "article",
-        "route": "/article",
-        "name": "Article",
         "menu": "",
         "headings": []
       }
